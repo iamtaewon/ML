@@ -6,3 +6,5 @@ Machin Learning/.ipynb_checkpoints/01_sklearn-checkpoint.ipynb
 Machine Learning/.ipynb_checkpoints/KFold 교차검증-checkpoint.ipynb
 Machine Learning/.ipynb_checkpoints/01_sklearn-checkpoint.ipynb
 *.csv
+*.txt
+Machine Learning/tree.dot
